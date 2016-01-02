@@ -4344,10 +4344,12 @@ input[type="submit"].btn-block,input[type="reset"].btn-block,input[type="button"
     border-color: #4e808e #4e808e #33535d;		
     border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);		
     *background-color: #4e808e;		
-    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);		
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);	
+	margin-bottom: 45px;	
 }		
 .btn-workdef {		
-    margin-top: 0px;		
+    margin-top: 0px;	
+	margin-bottom: 45px;	
 }
 
 .btn-warning {
